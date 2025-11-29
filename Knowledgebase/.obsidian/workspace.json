@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Witcher 3"
             }
+          },
+          {
+            "id": "1680ee7974e4d906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SmartAutomation/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,12 +223,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e538fbc45daaa2b",
+  "active": "1680ee7974e4d906",
   "lastOpenFiles": [
+    "SmartAutomation",
+    "Games/Witcher 3.md",
+    "SmartAutomation/Untitled.md",
     "image-1.png",
     "image.png",
     "Games/Arc Raiders.md",
-    "Games/Witcher 3.md",
     "Pasted image 20251117104226.png",
     "2025-11-17.md",
     "Games/Untitled.md",
@@ -250,12 +266,10 @@
     "HomeLab/WebSite/PostgreSQL.md",
     "HomeLab/WebSite/python.md",
     "HomeLab/WebSite/Django.md",
-    "HomeLab/Supermicro Server/TrueNas.md",
     "Assets/Pasted image 20230315202937.png",
     "Assets/Pasted image 20230313094714.png",
     "Assets/Pasted image 20230313174553.png",
     "Assets/Pasted image 20230313105643.png",
-    "Assets/Pasted image 20230315212042.png",
-    "Assets/Pasted image 20230331111328.png"
+    "Assets/Pasted image 20230315212042.png"
   ]
 }

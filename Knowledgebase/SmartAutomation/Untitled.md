@@ -1,0 +1,14 @@
+- [ ] General
+	- [ ] CCB Inbound
+	- [ ] Collab
+		- [ ] Homepage
+		- [ ] Marketing
+		- [ ] Recordo Admin
+		- [ ] Recordo Mobile
+		- [ ] Recordo Templates
+		- [ ] Switchboard
+	- [ ] ICT & DevOps
+	- [ ] Infrastructure
+	- [ ] Internal
+		- [ ] Tools
+			- [ ] Template IDE
