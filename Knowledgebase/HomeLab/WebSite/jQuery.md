@@ -1,0 +1,3 @@
+```jquery
+$('#blub').click(function() {
+```

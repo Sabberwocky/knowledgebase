@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "2025-11-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "2025-11-17"
+            }
+          },
+          {
+            "id": "5c4013979976ebd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Games/Arc Raiders.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arc Raiders"
+            }
+          },
+          {
+            "id": "7e538fbc45daaa2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Games/Witcher 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Witcher 3"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "a867fc367c4e6b15",
@@ -31,10 +60,14 @@
             "id": "bc3ed19d877a9841",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Games/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -110,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Udemy/DevOps_01/2. Ansible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for 2. Ansible"
             }
           },
           {
@@ -129,12 +162,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Udemy/DevOps_01/2. Ansible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from 2. Ansible"
             }
           },
           {
@@ -158,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Udemy/DevOps_01/2. Ansible.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 2. Ansible"
             }
           }
         ]
@@ -185,8 +218,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "08e5487456b46751",
+  "active": "7e538fbc45daaa2b",
   "lastOpenFiles": [
-    "Welcome.md"
+    "image-1.png",
+    "image.png",
+    "Games/Arc Raiders.md",
+    "Games/Witcher 3.md",
+    "Pasted image 20251117104226.png",
+    "2025-11-17.md",
+    "Games/Untitled.md",
+    "Games/Everspace 2.md",
+    "Games",
+    "HomeLab/Supermicro Server/Fans.md",
+    "ToDo.md",
+    "Udemy/DevOps_01/2. Ansible.md",
+    "Pasted image 20230415223124.png",
+    "dstask/template",
+    "dstask/resolved",
+    "dstask/recurring",
+    "dstask/paused",
+    "dstask/deferred",
+    "dstask/delegated",
+    "dstask/active",
+    "dstask/pending/4520a65a-d6d0-4e56-b1f3-a5da69ef5146.yml",
+    "dstask/pending",
+    "Pasted image 20230415212230.png",
+    "Urlaub/Madeira _23/Untitled.md",
+    "Urlaub/Madeira _23/Unterkunft.md",
+    "Urlaub/Madeira _23/Packliste.md",
+    "Urlaub/Madeira _23/Mietwagen.md",
+    "Urlaub/Madeira _23/Flüge.md",
+    "Urlaub/Madeira _23/Airport Taxi.md",
+    "Udemy/DevOps_01/1. Setup.md",
+    "HomeLab/GameServer/V Rising.md",
+    "Welcome.md",
+    "HomeLab/WebSite/AJAX calling PHP functions.md",
+    "HomeLab/WebSite/jQuery.md",
+    "HomeLab/WebSite/Setup.md",
+    "HomeLab/WebSite/JavaScript.md",
+    "HomeLab/WebSite/PostgreSQL.md",
+    "HomeLab/WebSite/python.md",
+    "HomeLab/WebSite/Django.md",
+    "HomeLab/Supermicro Server/TrueNas.md",
+    "Assets/Pasted image 20230315202937.png",
+    "Assets/Pasted image 20230313094714.png",
+    "Assets/Pasted image 20230313174553.png",
+    "Assets/Pasted image 20230313105643.png",
+    "Assets/Pasted image 20230315212042.png",
+    "Assets/Pasted image 20230331111328.png"
   ]
 }
