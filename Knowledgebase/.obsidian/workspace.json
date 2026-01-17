@@ -41,7 +41,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV/Untitled.md",
+                "file": "Games/Witcher 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Witcher 3"
+            }
+          },
+          {
+            "id": "1680ee7974e4d906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SmartAutomation/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,7 +195,7 @@
             }
           },
           {
-            "id": "2dff740e8148153e",
+            "id": "6edc045a2b046947",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -209,25 +223,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e538fbc45daaa2b",
+  "active": "1680ee7974e4d906",
   "lastOpenFiles": [
-    "ToDo.md",
-    "Welcome.md",
     "Games/EmptySpace.md",
     "CV/Untitled.md",
-    "Games/Untitled.md",
     "CV",
-    "SmartAutomation/Untitled.md",
     "SmartAutomation",
     "Games/Witcher 3.md",
+    "SmartAutomation/Untitled.md",
     "image-1.png",
     "image.png",
     "Games/Arc Raiders.md",
     "Pasted image 20251117104226.png",
     "2025-11-17.md",
+    "Games/Untitled.md",
     "Games/Everspace 2.md",
     "Games",
     "HomeLab/Supermicro Server/Fans.md",
+    "ToDo.md",
     "Udemy/DevOps_01/2. Ansible.md",
     "Pasted image 20230415223124.png",
     "dstask/template",
@@ -246,6 +259,7 @@
     "Urlaub/Madeira _23/Airport Taxi.md",
     "Udemy/DevOps_01/1. Setup.md",
     "HomeLab/GameServer/V Rising.md",
+    "Welcome.md",
     "HomeLab/WebSite/AJAX calling PHP functions.md",
     "HomeLab/WebSite/jQuery.md",
     "HomeLab/WebSite/Setup.md",
