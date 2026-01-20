@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "server checklist.md",
+                "file": "Server stufff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "server checklist"
+              "title": "Server stufff"
             }
           },
           {
@@ -267,12 +267,13 @@
   },
   "active": "7fdcaddbc4db8811",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "server checklist.md",
+    "Server stufff.md",
+    "ToDo.md",
+    "Untitled.md",
+    "conflict-files-obsidian-git.md",
     "CV/Job applications.md",
     "Games/Arc Raiders.md",
-    "Untitled.md",
-    "ToDo.md",
     "Welcome.md",
     "Games/EmptySpace.md",
     "Games/Untitled.md",
@@ -307,7 +308,6 @@
     "HomeLab/GameServer/V Rising.md",
     "HomeLab/WebSite/AJAX calling PHP functions.md",
     "HomeLab/WebSite/jQuery.md",
-    "HomeLab/WebSite/Setup.md",
     "Assets/Pasted image 20230315202937.png",
     "Assets/Pasted image 20230313094714.png",
     "Assets/Pasted image 20230313174553.png",
