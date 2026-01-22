@@ -76,9 +76,38 @@
               "icon": "lucide-file",
               "title": "Server stufff"
             }
+          },
+          {
+            "id": "c1d2b9ffeaf36e61",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Knowledgebase/CV/Untitled.md",
+                "bFile": "Knowledgebase/CV/Untitled.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Untitled"
+            }
+          },
+          {
+            "id": "fa7fdc93b7f44200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -237,11 +266,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4a4286c26c5d492",
+  "active": "fa7fdc93b7f44200",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Server stufff.md",
+    "server checklist.md",
     "Untitled.md",
     "Discussion with ententee.md",
-    "Server stufff.md",
     "2025-11-17.md",
     "SmartAutomation/Untitled.md",
     "Games/EmptySpace.md",
@@ -278,8 +309,6 @@
     "HomeLab/GameServer/V Rising.md",
     "Welcome.md",
     "HomeLab/WebSite/AJAX calling PHP functions.md",
-    "HomeLab/WebSite/jQuery.md",
-    "HomeLab/WebSite/Setup.md",
     "Assets/Pasted image 20230315202937.png",
     "Assets/Pasted image 20230313094714.png",
     "Assets/Pasted image 20230313174553.png",

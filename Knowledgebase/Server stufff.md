@@ -2,13 +2,13 @@
 SASS Server
 - [x] IN 2.5" ssds 
 - [x] OUT Tesla T4 / P4
-- [ ] OUT Hyper 4x2TB NVME
-- [ ] OUT 2x18TB HDD
+- [x] OUT Hyper 4x2TB NVME
+- [x] OUT 2x18TB HDD
 
 HorizonLab
 - [x] IN 2x Fans
-- [ ] IN Hyper 4x2TB
-- [ ] IN 2x18TB HDD
+- [x] IN Hyper 4x2TB
+- [x] IN 2x18TB HDD
 
 Migrate / Backup
 - [ ] 2x18TB  
