@@ -91,9 +91,23 @@
               "icon": "diff",
               "title": "Diff: Untitled"
             }
+          },
+          {
+            "id": "9fca95a7140a1bab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yoga/Speakter fix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Speakter fix"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -252,8 +266,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6edc045a2b046947",
+  "active": "43bcad376568a687",
   "lastOpenFiles": [
+    "Yoga/2pa-byps.sh",
+    "Yoga/Speakter fix.md",
+    "Yoga",
     "conflict-files-obsidian-git.md",
     "Server stufff.md",
     "server checklist.md",
@@ -283,7 +300,6 @@
     "dstask/paused",
     "dstask/deferred",
     "dstask/delegated",
-    "dstask/active",
     "Pasted image 20230415212230.png",
     "Urlaub/Madeira _23/Untitled.md",
     "Urlaub/Madeira _23/Unterkunft.md",
@@ -293,8 +309,6 @@
     "Urlaub/Madeira _23/Airport Taxi.md",
     "Udemy/DevOps_01/1. Setup.md",
     "HomeLab/GameServer/V Rising.md",
-    "Welcome.md",
-    "HomeLab/WebSite/AJAX calling PHP functions.md",
     "Assets/Pasted image 20230315202937.png",
     "Assets/Pasted image 20230313094714.png",
     "Assets/Pasted image 20230313174553.png",
