@@ -10,7 +10,7 @@ kanban-plugin: board
 
 ## open🛫 2026-01-31
 
-- [ ] git cleanup berechtigunen📅 2026-01-31
+- [ ] recordo task overview
 
 
 ## in progress
@@ -19,6 +19,8 @@ kanban-plugin: board
 
 ## finished 🏁
 
+- [ ] obsidian fix
+- [ ] git cleanup berechtigunen📅 2026-01-31
 
 
 
