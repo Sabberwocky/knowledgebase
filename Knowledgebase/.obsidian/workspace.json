@@ -41,21 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Witcher 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Witcher 3"
-            }
-          },
-          {
-            "id": "1680ee7974e4d906",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SmartAutomation/Untitled.md",
+                "file": "CV/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -64,50 +50,98 @@
             }
           },
           {
-            "id": "f4a4286c26c5d492",
+            "id": "5e201ee3af0871c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server stufff.md",
+                "file": "CV/Job applications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Server stufff"
+              "title": "Job applications"
             }
           },
           {
-            "id": "c1d2b9ffeaf36e61",
+            "id": "7fdcaddbc4db8811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Games/Arc Raiders.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arc Raiders"
+            }
+          },
+          {
+            "id": "a2e8b967b17892b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CV/Job applications.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Job applications"
+            }
+          },
+          {
+            "id": "f83715fe0b3e09ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Daily/2026-01-31.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-31"
+            }
+          },
+          {
+            "id": "09b0783547888bd8",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Knowledgebase/CV/Untitled.md",
-                "bFile": "Knowledgebase/CV/Untitled.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aFile": "Knowledgebase/conflict-files-obsidian-git.md",
+                "bFile": "Knowledgebase/conflict-files-obsidian-git.md",
+                "aRef": ""
               },
-              "icon": "diff",
-              "title": "Diff: Untitled"
+              "icon": "lucide-ghost",
+              "title": "split-diff-view"
             }
           },
           {
-            "id": "9fca95a7140a1bab",
+            "id": "3518d94c9243eac6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Yoga/Speakter fix.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Speakter fix"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -238,7 +272,7 @@
             }
           },
           {
-            "id": "6edc045a2b046947",
+            "id": "2dff740e8148153e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -246,13 +280,33 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e3264544da70d83e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "c7ff533a9726b25f",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,52 +317,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "6edc045a2b046947",
+  "active": "3518d94c9243eac6",
   "lastOpenFiles": [
+    "_Daily/2026-01-31.md",
+    "Untitled Kanban.md",
+    "Untitled 1.md",
+    "CV/Job applications.md",
+    "_Daily",
     "Yoga/bookmarks_2026-01-22.html",
     "Yoga/bookmarks-2025-10-30.json",
-    "Yoga/2pa-byps.sh",
     "Yoga/Speakter fix.md",
+    "Yoga/2pa-byps.sh",
     "Yoga",
-    "conflict-files-obsidian-git.md",
+    "Discussion with ententee.md",
     "Server stufff.md",
     "server checklist.md",
+    "HomeLab/Supermicro Server/Nextcloud.md",
+    "HomeLab/Supermicro Server/Monitoring.md",
+    "HomeLab/Supermicro Server/IPMI.md",
+    "HomeLab/Supermicro Server/Fans.md",
+    "HomeLab/Supermicro Server/CloudFlare.md",
+    "ToDo.md",
     "Untitled.md",
-    "Discussion with ententee.md",
-    "2025-11-17.md",
-    "SmartAutomation/Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "Games/Arc Raiders.md",
+    "Welcome.md",
     "Games/EmptySpace.md",
-    "CV/Untitled.md",
+    "Games/Untitled.md",
     "CV",
+    "SmartAutomation/Untitled.md",
     "SmartAutomation",
     "Games/Witcher 3.md",
     "image-1.png",
     "image.png",
-    "Games/Arc Raiders.md",
     "Pasted image 20251117104226.png",
-    "Games/Untitled.md",
+    "2025-11-17.md",
     "Games/Everspace 2.md",
     "Games",
-    "HomeLab/Supermicro Server/Fans.md",
-    "ToDo.md",
     "Udemy/DevOps_01/2. Ansible.md",
     "Pasted image 20230415223124.png",
     "dstask/template",
     "dstask/resolved",
-    "dstask/recurring",
-    "dstask/paused",
     "Pasted image 20230415212230.png",
     "Urlaub/Madeira _23/Untitled.md",
-    "Urlaub/Madeira _23/Unterkunft.md",
-    "Urlaub/Madeira _23/Packliste.md",
-    "Urlaub/Madeira _23/Mietwagen.md",
-    "Urlaub/Madeira _23/Flüge.md",
-    "Urlaub/Madeira _23/Airport Taxi.md",
-    "Udemy/DevOps_01/1. Setup.md",
-    "HomeLab/GameServer/V Rising.md",
     "Assets/Pasted image 20230315202937.png",
     "Assets/Pasted image 20230313094714.png",
     "Assets/Pasted image 20230313174553.png",

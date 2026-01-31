@@ -2,5 +2,13 @@
   "image-converter",
   "oz-image-plugin",
   "obsidian-image-toolkit",
-  "obsidian-git"
+  "obsidian-git",
+  "calendar",
+  "periodic-notes",
+  "mermaid-tools",
+  "dataview",
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
+  "obsidian-kanban",
+  "obsidian-tasks-plugin"
 ]
